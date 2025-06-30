@@ -1,0 +1,27 @@
+{
+  "name": "uni-koa-admin",
+  "version": "1.0.0",
+  "description": "一个基于uniapp和koa.js的中后台管理框架",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "knex": "^3.1.0",
+    "koa": "^3.0.0",
+    "koa-bodyparser": "^4.4.1",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^13.0.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.1",
+    "pino": "^9.7.0",
+    "pino-pretty": "^13.0.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
