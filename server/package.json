@@ -2,7 +2,7 @@
   "name": "uni-koa-admin",
   "version": "1.0.0",
   "description": "一个基于uniapp和koa.js的中后台管理框架",
-  "license": "MIT",
+  "license": "MIT license",
   "author": "",
   "type": "commonjs",
   "main": "index.js",
